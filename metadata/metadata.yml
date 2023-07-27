@@ -1,0 +1,56 @@
+metadata_version: 1
+name: Minimization of High Computational Cost in Data Preprocessing and Modeling Using
+  MPI4Py
+description: Data preprocessing is a fundamental stage in deep learning modeling and
+  serves as the cornerstone of reliable data analytics. These deep learning models
+  require significant amounts of training data to be effective, with small datasets
+  often resulting in overfitting and poor performance on large datasets. One solution
+  to this problem is parallelization in data modeling, which allows the model to fit
+  the training data more effectively, leading to higher accuracy on large data sets
+  and higher performance overall. In this research, we developed a novel approach
+  that effectively deployed tools such as MPI and MPI4Py from parallel computing to
+  handle data preprocessing and deep learning modeling processes. As a case study,
+  the technique is applied to COVID-19 data from state of Tennessee, USA. Our results
+  demonstrate promising outcome for the deployment of parallel computing in modeling
+  to minimize high computational cost.
+tags:
+- High Computational Cost
+- Performance
+- Data Preprocessing
+- MPI
+- MPI4Py
+- Machine Learning
+- Deep Learning
+- Data Parallelism
+- Model Parallelism
+authors:
+- name: Thomas Torku
+  affiliations:
+  - name: Middle Tennessee State University
+- name: Samir Poudel
+  affiliations:
+  - name: Middle Tennessee State University
+- name: Ahmeed Yinusa
+  affiliations:
+  - name: Middle Tennessee State University
+- name: Ebenezer Oluwasakin
+  affiliations:
+  - name: Middle Tennessee State University
+- name: Tingting Sun
+  affiliations:
+  - name: Middle Tennessee State University
+- name: Nahid Hasan
+  affiliations:
+  - name: Middle Tennessee State University
+- name: Khem Poudel
+  affiliations:
+  - name: Middle Tennessee State University
+- name: Jorge Vargas
+  affiliations:
+  - name: Middle Tennessee State University
+- name: Sammi Hamdan
+  affiliations:
+  - name: Middle Tennessee State University
+corresponding_contributor:
+  name: Khem Poudel
+  email: khem.poudel@mtmail.mtsu.edu
